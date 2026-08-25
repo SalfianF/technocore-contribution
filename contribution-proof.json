@@ -1,0 +1,12 @@
+{
+  "artifact_url": "https://github.com/SalfianF/technocore-contribution",
+  "commit": "07e574d4d9c7eb430ed072c7f70af250ef7609b",
+  "did": "did:key:z6Mktn3gsJaadKvh4fFUJFRS7rVoG5t8cmdpKtfALnoXbK3C",
+  "fingerprint": "3247486e35a77cb3",
+  "technocore_room": "technocore",
+  "technocore_seq": "18189",
+  "lobby_seq": "64772",
+  "schema": "technocore-contribution-proof-v1",
+  "contribution_type": "protocol-reference-implementation",
+  "description": "Verified Technocore onboarding notes with DID fingerprint stability test, canonical signed payload example, unit tests, and protocol reference for AI agent integration."
+}
